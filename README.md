@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-### URL : 
+### URL : https://mokhafagy94.github.io/Weather-Dashboard/
 
 ## Description
 A simple web application that allows users to search for a city to get the current weather and 5 day forecast. Cities that users previously looked up will be saved in their local storage.
@@ -44,6 +44,6 @@ A simple web application that allows users to search for a city to get the curre
 
 
 ## Contributor:
-Mo Khafagy ©2024 All Rights Reserved.
+Mo Khafagy https://github.com/Mokhafagy94/Weather-Dashboard.git ©2024 All Rights Reserved.
 - - -
 
